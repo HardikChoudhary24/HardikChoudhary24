@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Choudhary</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <br>
 <span>📫 How to reach me **hardik109bkp@gmail.com**</span>
 
