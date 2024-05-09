@@ -34,6 +34,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HardikCh0udhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardscode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hardik-choudhary-levi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik choudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/hardiks.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardikch0udhary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardik-choudhary-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik choudhary" height="30" width="40" /></a>
 </p>
